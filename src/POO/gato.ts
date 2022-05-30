@@ -14,7 +14,7 @@ abstract class Gato {
 
 class Tom extends Gato {
     idade: number;
-    
+
     constructor(n: string, c: string, i: number) {
         super(n, c);
         this.idade = i;

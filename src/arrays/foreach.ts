@@ -7,7 +7,7 @@ const produtos = [
 ];
 
 produtos.forEach((produtos, index, array) => {
-    
+
 console.log( array)
 
 })

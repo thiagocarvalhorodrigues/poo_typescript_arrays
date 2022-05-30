@@ -15,7 +15,7 @@ export default class Animal {
 
     }
 }
- 
+
 class Cachorro extends Animal {
     raca: string;
 
