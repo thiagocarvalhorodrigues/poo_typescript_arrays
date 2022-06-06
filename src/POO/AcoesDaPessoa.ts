@@ -17,7 +17,7 @@ class AcoesDaPessoa extends Pessoa implements Humano {
 
 }
 
-let Candidato1 = new AcoesDaPessoa("Thiago", 35, 1.70, "Branca", "Gente boa", "Desenvolvedor de Software.")
+let Candidato1 = new AcoesDaPessoa("carlos", 35, 1.70, "Branca", "Gente boa", "Desenvolvedor de Software.")
 console.log(Candidato1),
 Candidato1.programar()
 Candidato1.dormir()

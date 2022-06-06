@@ -8,6 +8,6 @@ const produtos = [
 
 produtos.forEach((produtos, index, array) => {
 
-console.log( array)
+console.log(produtos['valor'] * 2)
 
 })
